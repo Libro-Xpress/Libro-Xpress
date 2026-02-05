@@ -6,4 +6,4 @@ David Solis
 
 Jorge Rivera
 
-hola muyndo **como** estás
+hola mundo **como** estás
